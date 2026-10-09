@@ -1,0 +1,14 @@
+Package: snp
+Version: 1.0.1
+Architecture: amd64
+Maintainer: A <tu_correo@email.com>
+Depends: python3 (>= 3.6), python3-tk
+Filename: pool/main/snp_suite.deb
+Size: 3352
+MD5sum: e405dc1c89ba49a07817cbbd4627db43
+SHA1: 3901a20a75b8e9cfe2d4561803809ab891beaa5b
+SHA256: e41551a440902e133061eb7cac1afbf62ef26f14573bbde5bd76c70da64f5506
+Section: utils
+Priority: optional
+Description: Un bloc de notas muy simple hecho con python
+

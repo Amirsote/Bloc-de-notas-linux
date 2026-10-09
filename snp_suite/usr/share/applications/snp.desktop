@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=SNP
+Comment=Un bloc de notas simple.
+Exec=/usr/bin/snp
+Icon=/usr/share/icons/icons/hicolor/48x48/apps/snp.png
+Terminal=false
+Type=Application
+Categories=Utility;TextEditor;

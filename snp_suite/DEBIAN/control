@@ -1,0 +1,8 @@
+Package: snp
+Version: 1.0.1
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: A <tu_correo@email.com>
+Depends: python3 (>= 3.6), python3-tk
+Description: Un bloc de notas muy simple hecho con python
